@@ -14,4 +14,4 @@ streamlit run streamlit_app.py
 ```
 
 ## Author
-Zy Taga with support from Zakaria Chowdhury
+Zeid Ombotimbe with support from Zakaria Chowdhury
